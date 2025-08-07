@@ -1,5 +1,9 @@
-# 💫 About Me:
-Developing the backend for a functional job search platform, collaborating with frontend and backend teams.<br>Full-stack web development projects, especially those using MERN <br>Optimizing backend performance and integrating third-party APIs.<br>Docker, GraphQL, and advanced PostgreSQL indexing techniques.<br>Node.js, Express, MongoDB, REST APIs, or backend project structure.
+# 👋 Hi, I'm Piyush Rai!
+🛠️ Developing the backend for a functional job search platform, collaborating with frontend and backend teams.<br>
+👯 Full-stack web development projects, especially those using MERN.<br>
+🤝 Optimizing backend performance and integrating third-party APIs.<br>
+🌱 Docker, GraphQL, and advanced PostgreSQL indexing techniques.<br>
+💬 Node.js, Express, MongoDB, REST APIs, or backend project structure.
 
 
 ## 🌐 Socials:
