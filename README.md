@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Piyush Rai!
-🛠️ Developing the backend for a functional job search platform, collaborating with frontend and backend teams.<br>
-👯 Full-stack web development projects, especially those using MERN.<br>
-🤝 Optimizing backend performance and integrating third-party APIs.<br>
-🌱 Docker, GraphQL, and advanced PostgreSQL indexing techniques.<br>
-💬 Node.js, Express, MongoDB, REST APIs, or backend project structure.
-
+🛠️ I'm currently developing the backend for a functional job search platform, collaborating with frontend and backend teams.<br>
+👯 I'm looking to collaborate on full-stack web development projects, especially those using the MERN stack.<br>
+🤝 I'm looking for help with optimizing backend performance and integrating third-party APIs.<br>
+🌱 I'm currently learning Docker, GraphQL, and advanced PostgreSQL indexing techniques.<br>
+💬 Ask me about Node.js, Express, MongoDB, REST APIs, or backend project structure.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Piyush rai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyushrai7271@gmail.com) 
