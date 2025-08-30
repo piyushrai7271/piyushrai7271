@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Piyush Rai!
+
+🚀 Passionate Full-Stack Developer with a focus on **Backend Development** and the **MERN Stack**. Currently building a functional **Job Search Platform** backend while collaborating closely with frontend and backend teams.
+
 🛠️ I'm currently developing the backend for a functional job search platform, collaborating with frontend and backend teams.<br>
 👯 I'm looking to collaborate on full-stack web development projects, especially those using the MERN stack.<br>
 🤝 I'm looking for help with optimizing backend performance and integrating third-party APIs.<br>
