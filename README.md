@@ -1,5 +1,14 @@
-# 👋 Hi, I'm Piyush Rai!
-I'm currently developing the backend for a functional job search platform, collaborating with frontend and backend teams. I'm looking to collaborate on full-stack web development projects, especially those using the MERN stack. I'm seeking help with optimizing backend performance and integrating third-party APIs. I'm also learning Docker, GraphQL, and advanced PostgreSQL indexing techniques. Feel free to ask me about Node.js, Express, MongoDB, REST APIs, or backend project structure.
+# 👋 Hi, I'm Piyush Rai
+
+Backend Developer focused on building scalable APIs, authentication systems, and real-time applications using Node.js and the MERN stack.
+
+I have experience developing production-ready backend services with JWT authentication, RBAC, payment integrations, Redis caching, and Socket.IO-based real-time systems. I enjoy designing clean backend architectures, optimizing performance, and building systems that scale reliably.
+
+Currently exploring system design, distributed systems, Docker, and advanced database optimization while improving my expertise in scalable backend engineering.
+
+Tech I work with regularly:
+Node.js • Express.js • MongoDB • Redis • Socket.IO • REST APIs • JWT • Docker
+
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Piyushrai) 
